@@ -1,8 +1,6 @@
-Assessment completed
+Assessment completed ✅
 
-Please find the original prompt below
-
-
+Please find the original prompt below:
 
 Thank you for taking the time to complete this assessment for Lavamap/the3Dapp
 
