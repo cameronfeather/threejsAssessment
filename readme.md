@@ -1,3 +1,9 @@
+Assessment completed
+
+Please find the original prompt below
+
+
+
 Thank you for taking the time to complete this assessment for Lavamap/the3Dapp
 
 Provided is a simple three.js app and your task is to complete the features below:
